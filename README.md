@@ -1,4 +1,4 @@
-# From-OOP-Course
+# OOP-Course-Project
 # ANSI Terminal-Based VisiCalc Clone
 
 This project is my solution for the CSE241 Object Oriented Programming course term project. The original assignment PDF and the interface files provided by the professor are available in the `ProvidedByProfessor` folder.
